@@ -2,18 +2,16 @@
   {
     "title": "Portfolio",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest technologies by building a portfolio using React..",
+    "description": "This is a project made to learn the latest technologies by building a portfolio using React, HTML and CSS.",
     "skills": ["React", "CSS", "HTML"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/MayureshAmbrale/Portfolio"
   },
   {
-    "title": "Project B",
+    "title": "Uber App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to learn Spring Boot by building an Uber-like backend with authentication, ride booking, and payments.",
+    "skills": ["Spring Boot", " PostgreSQL"],
+    "source": "https://github.com/MayureshAmbrale/UberApplication"
   },
   {
     "title": "Project C",
