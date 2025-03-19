@@ -1,0 +1,23 @@
+[
+  {
+    "role": "Front-End Developer",
+    "organisation": "HustleBee",
+    "startDate": "20-Feb, 2025",
+    "endDate": "5-Apr, 2025",
+    "experiences": [
+      "Worked on Ionic React",
+      "Worked on React components",
+      "Helped create UI components"
+      
+    ]
+    
+  },
+  {
+    "role": "Java Developer",
+    "organisation": "TechnoHacks",
+    "startDate": "15-Jan, 2025",
+    "endDate": "15-Feb,2025",
+    "experiences": ["Worked on Spring-Boot framework", "Worked on REST full API  and Spring Security"]
+  }
+
+]
